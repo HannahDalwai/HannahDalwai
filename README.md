@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... A portfolio and  various other projects 
-- 🌱 I’m currently learning ... VUE.js JAVASCRIPT CSS HTML BOOSTRAP GITHUB 
+- 🌱 I’m currently learning ... php and wordpress 
 - 📫 How to reach me: ... EMAIL: hannahdalwai4@gmail.com LINKEDIN:https://www.linkedin.com/in/hannah-dalwai-029396216/
 - 📫 ... KNOWLEDGEMARKER: https://knowledgemarker.com/user/hannahdalwai   CODEPEN: https://codepen.io/HannahDalwai
 - 😄 Pronouns: ... She/Her
