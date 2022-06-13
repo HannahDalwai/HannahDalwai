@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎉 My website https://dev-portfolio-hannah.pantheonsite.io/
-- 🔭 I’m currently working on ... A guest and  e-commerce <3
+- 🔭 I’m currently working on ... A guest_app and  e-commerce <3
 - 🌱 I’m currently learning ... php and wordpress 
 - 📫 How to reach me: ... EMAIL: hannahdalwai4@gmail.com LINKEDIN:https://www.linkedin.com/in/hannah-dalwai-029396216/
 - 📫 ... KNOWLEDGEMARKER: https://knowledgemarker.com/user/hannahdalwai   CODEPEN: https://codepen.io/HannahDalwai
